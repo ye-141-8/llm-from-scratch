@@ -39,3 +39,7 @@ The neuron guesses, we measure the error, we nudge the weights a little to make 
 | error | how far the neuron's answer is from the correct answer |
 | learning rate | how big each nudge is |
 | epoch | one full pass through all the training examples |
+
+## License
+
+MIT. See the [LICENSE](LICENSE) file.
